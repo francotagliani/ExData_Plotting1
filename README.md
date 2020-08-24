@@ -1,3 +1,8 @@
+For each plot there is a single .R file to generate it. 
+There is also a main.R file that could be use to generate all the plots needed. 
+
+For every file there is a final line to delete the remaining txt file (if it was needed to)
+
 ## Introduction
 
 This assignment uses data from
